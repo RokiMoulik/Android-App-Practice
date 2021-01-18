@@ -80,6 +80,8 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         Toast.makeText(this, "You selected: "+item, Toast.LENGTH_LONG).show();
     }
 
+    // on click handler
+
 //    public void clickHandler(View view) {
 //        Date date = new Date();
 //        textView.setText("Today is: "+ date.toString());
